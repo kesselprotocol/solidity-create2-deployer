@@ -1,0 +1,12 @@
+.DS_Store
+build
+node_modules
+
+parity
+
+node_modules
+dist
+
+#Buidler files
+cache
+artifacts
