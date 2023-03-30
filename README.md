@@ -13,6 +13,10 @@ This library is a minimal utility for deploying ethereum contracts at deteremini
 
 ## Example Usage
 
+```shell
+npm install sdb-finance/solidity-create2-deployer
+```
+
 ```js
 // import
 const {
